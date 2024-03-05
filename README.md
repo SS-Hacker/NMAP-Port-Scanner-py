@@ -17,11 +17,11 @@ Port Scanning is one of the features of Nmap wherein the tool detects the status
 6.Determine characteristics: Nmap can help cybersecurity professionals determine what hosts are available on a network, what services they offer,<br/><br/> 
 7.what operating systems they're running, and the type of firewalls in use. <br/><br/>
 
- ❤️ &emsp; <br/><br/>
- ✌️ &emsp; <br/><br/>
- ❤️ &emsp; <br/><br/>
- 📧 &emsp; <br/><br/>
- 💬 &emsp; <br/><br/>
+ ❤️ &emsp; 
+ ✌️ &emsp; 
+ ❤️ &emsp; 
+ 📧 &emsp; 
+ 💬 &emsp; 
 
 
 ###### I have created the stall using only Python Language. ####### <br/><br/>
